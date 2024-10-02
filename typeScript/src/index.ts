@@ -1,4 +1,4 @@
-'user strict';
+'use strict';
 // #TYPESCRIPT
 // let username= "codeway"; // type annotation
 // let nameOfUser:string; // type inference
